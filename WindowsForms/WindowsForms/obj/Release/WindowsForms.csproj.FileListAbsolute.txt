@@ -1,0 +1,74 @@
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\bin\Release\WindowsForms.exe.config
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Auth.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.AuthForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.CalculationMaterialForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Form1.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormDirectory.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormTechnology.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Graphic.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.InvoiceDetailMatForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.InvoiceDetailTovForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.InvoiceForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.MainForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.MoveForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.OrderForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.OrdersAddForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Properties.Resources.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.ReportForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.OrdersInvoiceDetailMatForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Zakupki.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.ZakupkiAdd.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Release\WindowsForms.exe.config
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Auth.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.AuthForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.CalculationMaterialForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Form1.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormDirectory.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormTechnology.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Graphic.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.InvoiceDetailMatForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.InvoiceDetailTovForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.InvoiceForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.MainForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.MoveForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.OrderForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.OrdersAddForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Properties.Resources.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.ReportForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.OrdersInvoiceDetailMatForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.Zakupki.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.ZakupkiAdd.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Release\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.csproj.AssemblyReference.cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.csproj.ResolveComReference.cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.About.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.Auth.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.AuthForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.Form1.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormAddAgent.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormAddCategory.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormAddStorage.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormAddTovar.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormDirectory.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormEditCategory.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormEditStorage.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormEditSupplier.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormEditTovar.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.FormSettings.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.Graphic.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.InvoiceDetailTovForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.InvoiceForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.MainForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.MoveForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.OrderForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.OrdersAddForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.Properties.Resources.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.ReportForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.OrdersInvoiceDetailMatForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.Zakupki.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.ZakupkiAdd.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.csproj.GenerateResource.cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Release\WindowsForms.csproj.CoreCompileInputs.cache

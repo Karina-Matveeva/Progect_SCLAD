@@ -1,0 +1,257 @@
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\bin\Debug\MetroFramework.Design.dll
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\bin\Debug\MetroFramework.dll
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\bin\Debug\MetroFramework.Fonts.dll
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MainForm.resources
+c:\users\рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormDirectory.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Auth.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormTechnology.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Graphic.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MoveForm.resources
+C:\Users\Рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceForm.resources
+C:\Users\Рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailMatForm.resources
+C:\Users\Рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailTovForm.resources
+C:\Users\Рамиль\documents\visual studio 2012\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ReportForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Auth.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormDirectory.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormTechnology.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Graphic.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailMatForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailTovForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MainForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MoveForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ReportForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.CalculationMaterialForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\bin\Debug\bunifu_ui_v1.5.2.dll
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\bin\Debug\MySql.Data.dll
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.AuthForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrderForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersAddForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersInvoiceDetailMatForm.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Zakupki.resources
+C:\Users\Рамиль\Documents\Visual Studio 2012\Projects\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ZakupkiAdd.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\bunifu_ui_v1.5.2.dll
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\MySql.Data.dll
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Auth.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.AuthForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.CalculationMaterialForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormDirectory.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormTechnology.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Graphic.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailMatForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailTovForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MainForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MoveForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrderForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersAddForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ReportForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersInvoiceDetailMatForm.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Zakupki.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ZakupkiAdd.resources
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\Мага\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\bunifu_ui_v1.5.2.dll
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\bin\Debug\MySql.Data.dll
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Auth.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.AuthForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.CalculationMaterialForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormDirectory.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormTechnology.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Graphic.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailMatForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailTovForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MainForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MoveForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrderForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersAddForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ReportForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersInvoiceDetailMatForm.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Zakupki.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ZakupkiAdd.resources
+C:\Users\Рамиль\Desktop\19 01 2017\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Auth.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.AuthForm.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormDirectory.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Graphic.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailTovForm.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceForm.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MainForm.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MoveForm.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrderForm.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersAddForm.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ReportForm.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersInvoiceDetailMatForm.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Zakupki.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ZakupkiAdd.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\bin\Debug\bunifu_ui_v1.5.2.dll
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.ResolveComReference.cache
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.About.resources
+D:\Freelance\Диплом АИС Склад\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormSettings.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.ResolveComReference.cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.About.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Auth.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.AuthForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormDirectory.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormSettings.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Graphic.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceDetailTovForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.InvoiceForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MainForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MoveForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrderForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersAddForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ReportForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.OrdersInvoiceDetailMatForm.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Zakupki.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.ZakupkiAdd.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\bunifu_ui_v1.5.2.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormAddAgent.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Buffers.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Memory.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Buffers.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Memory.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormEditSupplier.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormAddCategory.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormEditCategory.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormAddTovar.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormEditTovar.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormAddStorage.resources
+C:\Users\nuftiev.r\Downloads\Диплом АИС Склад (1)\WindowsForms — копия\WindowsForms\WindowsForms\obj\Debug\WindowsForms.FormEditStorage.resources
+C:\Users\Karina\OneDrive\Рабочий стол\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Karina\OneDrive\Рабочий стол\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karina\OneDrive\Рабочий стол\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.ResolveComReference.cache
+C:\Users\Karina\OneDrive\Рабочий стол\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Karina\OneDrive\Рабочий стол\WindowsForms\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
